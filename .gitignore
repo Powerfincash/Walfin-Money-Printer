@@ -1,0 +1,10 @@
+# MetaTrader 5 build artifacts
+*.ex5
+*.ex4
+
+# Logs
+*.log
+logs/
+
+# MetaEditor backup
+*.mq5.bak
